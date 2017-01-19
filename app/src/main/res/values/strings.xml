@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">name</string>
+    <string name="app_main">Filmes</string>
+    <string name="app_formulario">Cadastro de Filmes</string>
+    <string name="app_formulario_filmes_cad">Filmes Cadastrados</string>
+</resources>
